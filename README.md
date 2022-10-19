@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pirules
 - 👀 I’m interested in Video-Games, Music, Data analisis, Machine Learning and everything related to CS.
-- 🌱 I’m currently learning C++, Python, and in college for CS.
+- 🌱 I’m currently learning Mobile & Web development, and in college for CS.
 - 💞️ I’m looking to collaborate Anything i could be of help.
 - 📫 How to reach me Pirules_neta@yahoo.com.mx  A01640314@itesm.mx
 
